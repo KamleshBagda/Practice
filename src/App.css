@@ -1,0 +1,162 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background: linear-gradient(46deg,#0a0a0a,#3a4452);
+}
+.bg-body-tertiary2{
+  background: linear-gradient(46deg,#0a0a0a,#3a4452) !important;
+}
+.bg-body-tertiary1{
+  background: linear-gradient(46deg,#0a0a0a,#b7c8e1) !important;
+}
+.logo{
+  width: 200px;
+  height:70px;
+  border-radius: 20%;
+}
+.crousel-border{
+  border: 10px solid #354557;
+
+}
+.txtcol{
+  color: rgb(243, 239, 239) !important;
+}
+.txtcol1{
+  color: whitesmoke !important;
+  background-color: rgba(55, 51, 51,.1);
+  font-size: 22px;
+}
+.txtcol1:hover{
+  color: #0a0a0a !important;
+  background-color: #fff;
+}
+.card
+{
+  height: 500px !important;
+  width: 361px !important;
+  color: aliceblue;
+  overflow: hidden !important;
+}
+.card_hov1:hover{
+  background-color: #2a313a !important ;
+  box-shadow: 6px 6px 12px rgb(77, 89, 100) !important;
+}
+
+.card-title{
+  color: skyblue;
+  font-size: 26px;
+}
+.card-title:hover{
+  color: aliceblue;
+  text-decoration: underline;
+}
+.card-text:hover{
+  color: rgb(173, 202, 202);
+  text-decoration: solid;
+}
+
+.imag{
+  height: 280px !important;
+  width: 320px !important;
+}
+.imag:hover{
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2); 
+}
+.title3{
+  font-size: 30px !important;
+}
+.btn{
+  text-align: center !important;
+  margin: 10px 0px;
+}
+.widt{
+  width: 18rem;
+}
+.nam{
+  font-weight: bold;
+  font-family: ui-sans-serif;
+}
+.nam2{
+  font-size: 23px;
+  font-family: ui-sans-serif;
+  font-weight: bold;
+}
+.hovr:hover{
+  color: rgb(7, 7, 13) !important;
+}
+.Carousel_top{
+  font-size: 30px;
+  font-weight:bold;
+  color: black;
+  background-color: azure;
+}
+
+.carous{
+  color: aliceblue;
+  font-size: 25px;
+}
+.carousel-img{
+  width: 100vw;
+  height: 600px;
+}
+.footer_bg{
+  background: linear-gradient(46deg,#0a0a0a,#b7c8e1) !important;
+}
+.hdmovies{
+  color: rgb(21, 151, 211) !important;
+}
+.hdmovies:hover{
+  color: blue !important;
+  text-decoration: underline;
+}
+.fb{
+  padding: 8px;
+  background-color: rgb(11, 81, 243);
+  color: white;
+}
+.fb:hover{
+  background-color: white;
+  color: rgb(11, 81, 243);
+}
+.ig{
+  padding: 8px;
+  background-color: rgb(244, 65, 5);
+  color: white;
+}
+.ig:hover{
+  background-color:white ;
+  color: rgb(238, 77, 28);
+}
+.yt{
+  padding: 8px;
+  background-color: rgb(241, 46, 50);
+  color: white;
+}
+.yt:hover{
+  background-color: white;
+  color: rgb(241, 46, 50);
+}
+.tg{
+  padding: 8px;
+  background-color: rgb(73, 11, 243);
+  color: rgb(201, 201, 217);
+}
+.tg:hover{
+  color: rgb(73, 11, 243);
+  background-color: #fff;
+}
+li{
+  list-style: none;
+}
+.footer_list_bg
+{
+  background-color: #111010;
+}
+.list_hovr:hover{
+  color: rgb(7, 195, 247) !important;
+  text-decoration: underline !important;
+}
